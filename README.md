@@ -7,3 +7,5 @@ This full-stack web application allows users to log and manage their travel expe
 - CRUD functionality for locations and notes.
 - Authentication, allowing users to log in and access their saved travels.
 - Fetch map data, geolocation, and local storage data.
+
+Images and more about the project can be found [on my portfolio.](https://calyeates.com/travel-app)
